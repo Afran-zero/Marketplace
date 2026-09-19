@@ -6,6 +6,11 @@ medallion architecture.
 
 ## Architecture
 
+
+# System Architecture
+
+![MarketPlus hybrid medallion data pipeline](./SHOW/architecture.png)
+
 ```text
 AWS CLOUD
 
