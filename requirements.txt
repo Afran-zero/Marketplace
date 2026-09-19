@@ -1,0 +1,8 @@
+prefect
+prefect-aws
+pyspark
+boto3
+pandas
+pyarrow
+psycopg2-binary
+python-dotenv
