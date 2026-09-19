@@ -1,6 +1,3 @@
-Here's a complete Markdown file you can save as `AWS_SETUP.md` in your project root. It documents everything you did on the AWS side, in the order you did it, with all the actual code and SQL.
-
----
 
 ```markdown
 # AWS Setup Guide — MarketPlus Medallion Pipeline
