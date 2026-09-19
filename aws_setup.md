@@ -556,11 +556,3 @@ of the day-of-month or day-of-week fields.
 3. Commit it to Git — it doubles as documentation and a portfolio artifact
 4. If you ever tear down and rebuild, you have an exact script to follow
 
-### 💡 What to Add Later
-
-If you want to make it even more complete, consider adding:
-- **Screenshots** of the IAM policy editor, Lambda test result, Athena query result
-- **A troubleshooting section** with the errors you actually hit (Lambda timeout, Glue crawler denial, Athena permission denied)
-- **A "what I'd do differently" section** — useful for a portfolio write-up
-
-But as it stands, this document is thorough enough that anyone (including future-you) could rebuild the AWS side from scratch.
